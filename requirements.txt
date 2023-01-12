@@ -1,4 +1,5 @@
-Django==3.0.2
-social-auth-app-django==3.1.0
-django-task==1.5.0
-uWSGI==2.0.18
+Django==3.2.16
+django-allauth==0.52.0
+django-task==2.0.5
+uWSGI==2.0.21
+psycopg2==2.9.5
