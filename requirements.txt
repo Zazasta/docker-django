@@ -1,5 +1,5 @@
-Django==3.2.16
-django-allauth==0.52.0
-django-task==2.0.5
-uWSGI==2.0.21
-psycopg2==2.9.5
+Django==4.2.4
+django-allauth==0.54.0
+django-task==2.0.6
+uWSGI==2.0.22
+psycopg2==2.9.6
